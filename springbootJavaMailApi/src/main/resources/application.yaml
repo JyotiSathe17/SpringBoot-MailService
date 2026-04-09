@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: springbootJavaMailApi
+  # GMail Properties
+  mail:
+    host: smtp.gmail.com
+    port: 587
+    username: sathejyoti376@gmail.com
+    password: mmwf qxjt dcgr pmxb
+
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
