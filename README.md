@@ -12,7 +12,6 @@ Supports sending emails with **CC, BCC, subject, body, and attachments**.
   - From
   - To
   - CC (Carbon Copy)
-  - BCC (Blind Carbon Copy)
   - Subject
   - Email Body (Text/HTML)
   - Attachments
